@@ -1,0 +1,7 @@
+{
+  "name": "DroidCalc AI",
+  "description": "A professional Android-style calculator with a built-in Gemini AI Math Solver for word problems and complex expressions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
