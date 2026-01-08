@@ -1,7 +1,5 @@
 {
-  "name": "DroidCalc AI",
-  "description": "A professional Android-style calculator with a built-in Gemini AI Math Solver for word problems and complex expressions.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
+  "name": "DroidCalc",
+  "description": "A clean, professional Android-style calculator for daily use.",
+  "requestFramePermissions": []
 }
